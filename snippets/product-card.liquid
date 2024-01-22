@@ -83,7 +83,7 @@ Supported variables
         {%- endif -%}
       </a>
 
-      {%- if show_quick_buy and product.available -%}
+      {%- if show_quick_buy and product.available and product.price > 0 -%}
         <div class="product-card__quick-buy">
           {%- assign quick_add_label = 'product.general.quick_add' | t -%}
 
@@ -199,8 +199,11 @@ Supported variables
       {%- else -%}
         <span class="product-card__title"><a href="{{ product.url }}" class="bold">{{ product.title }}</a></span>
       {%- endif -%}
-
-      {%- render 'price-list', product: product, text_alignment: text_alignment -%}
+        {% if product.price > 0 %}
+          {%- render 'price-list', product: product, text_alignment: text_alignment -%}
+        {% else %}
+          <a style="color:#17d004;" href="{{product.url}}">Contact us for quote</a>
+        {% endif %}
     </div>
 
     {%- if show_rating and mobile_reduced or text_alignment == 'center' -%}
