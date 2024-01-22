@@ -1,0 +1,111 @@
+<style>
+  .collection-list {
+    grid: auto / auto-flow 37vw;
+    justify-content: center;
+    gap: ;
+  }
+  .sub-collection-card__content.prose{
+    margin-block-end: unset;
+  }
+
+  .content-over-media:before{
+    border-radius: 200px;
+  }
+
+  a.collection-card:hover p{
+    color:#16D101 !important;
+  }
+
+  .collection-card{
+    padding-right: 10px;
+  }
+
+  .collection-card__content-wrapper{
+    padding-top: 8px;;
+  }
+
+  @media screen and (max-width: 400px) {
+    .sub-collection-card__content.prose p  {
+      font-size: 13px;
+    }
+  }
+
+  @media screen and (min-width: 1000px) {
+    .collection-list {
+      grid: auto / auto-flow 11vw;
+    }
+    .sub-collection-card__content.prose p{
+    font-size: 15px;
+  }
+  }
+
+  @media screen and (min-width: 1400px) {
+    .collection-list {
+      grid: auto / auto-flow 11vw;
+    }
+    .sub-collection-card__content.prose p{
+      font-size: 18px;
+    }
+  }
+</style>
+
+<div class="scrollable-with-controls">
+  {%- assign scroll_area_id = 'scroll-area-' | append: section.id -%}
+  <scroll-carousel
+    selector=".collection-card"
+    id="{{ scroll_area_id }}"
+    class="scroll-area bleed is-scrollable"
+    style="padding-inline: max(35px) !important;">
+    <collection-list class="collection-list">
+      {%- for sub_collection_link in sub_collection_links -%}
+        {%- if sub_collection_link.url contains '/collections/' -%}
+          {%- liquid
+            assign lang_code_string = request.locale.iso_code | prepend: '/' | downcase
+            assign sub_collection_handle = sub_collection_link.url | remove: '/collections/' | remove: lang_code_string
+            assign sub_collection = collections[sub_collection_handle]
+          -%}
+
+          {%- assign collection_url = sub_collection.url -%}
+
+          {%- unless parent_url == sub_collection.url -%}
+
+            <a {% if collection_url != blank %}href="{{ collection_url }}"{% endif %}class="collection-card shadow"reveal-jsstyle="opacity: 1;">
+
+              <div class="content-over-media group rounded-sm" style="--content-over-media-overlay: 0 0 0 / 0.08">
+
+                {%- if sub_collection != blank -%}
+                  {%- assign image = sub_collection.image -%}
+
+                  {%- if image != blank -%}
+                    {%- capture sizes -%}(max-width: 699px) 73vw, {{ settings.page_width | divided_by: 5 }}px{%- endcapture -%}
+                    {{- image | image_url: width: image.width | image_tag: loading: 'lazy', sizes: sizes, widths: '200,300,400,500,600,800,1000,1200,1400,1600', class: 'zoom-image' -}}
+                  {%- endif -%}
+
+             
+                {%- else -%}
+                  {%- capture collection_placeholder -%}
+                    {% cycle 'collection-1', 'collection-2', 'collection-3' %}{%- endcapture -%}
+                  {{- collection_placeholder | placeholder_svg_tag: 'placeholder zoom-image' -}}
+                  <div class="collection-card__content-wrapper text-custom {{ sub_collection.settings.text_position }}" style="--text-color: {{ sub_collection.settings.text_color.rgb }}">
+                    <div class="collection-card__content prose">
+                      <p class="{{ sub_collection.settings.heading_tag }}">{{- 'general.on_boarding.collection_title' | t -}}</p>
+                    </div>
+                  </div>
+                {%- endif -%}
+              </div>
+              <div class="collection-card__content-wrapper text-custom place-self-center text-center" style="--text-color: 255 255 255">
+
+              <div class="sub-collection-card__content prose">
+                <p class="" style="color:#363636;line-height:20px;">{{ sub_collection.title | escape }}</p>
+              </div>
+
+            </div>
+            </a>
+          {%- endunless -%}
+        {%- endif -%}
+      {%- endfor -%}
+    </collection-list>
+  </scroll-carousel>
+  {%- assign default_progress = 20 | times: 1.0 | divided_by: sub_collection_links.size -%}
+  {%- render 'scrollbar', observes: scroll_area_id, default_progress: default_progress, show_buttons: true, center_scrollbar: "width:80%;margin:0 auto;" -%}
+</div>

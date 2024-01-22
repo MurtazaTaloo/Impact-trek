@@ -1,0 +1,61 @@
+{%- if section.settings.show_collection_description -%}
+  <div id="collection_description" class="collection_description prose">
+    {{- collection.description -}}
+    <div data-show-collection-toggle="{{ section.settings.show_collection_toggle }}" style="display: none;"></div>
+  </div>
+
+  {% comment %}
+    This script enables the read more section
+  {% endcomment %}
+  <script>
+    document.addEventListener('shopify:section:load', initializeReadMoreToggle);
+    document.addEventListener('DOMContentLoaded', initializeReadMoreToggle);
+
+    function initializeReadMoreToggle() {
+      var showToggle = document.querySelector('[data-show-collection-toggle]').getAttribute('data-show-collection-toggle') === 'true';
+      var description = document.getElementsByClassName("collection_description")[0];
+      
+      if (!description || document.getElementById("readMoreToggle")) return;
+      
+      var existingToggle = document.getElementById("readMoreToggle");
+      if (existingToggle) existingToggle.remove();
+      
+      if (!showToggle) {
+        description.style.cssText = ""; // Reset to default
+        return;
+      }
+
+      var descriptionText = description.innerText.length;
+      if (descriptionText > 500) {
+        description.style.cssText = "max-height: 200px; overflow: hidden;";
+        
+        var para = document.createElement("P");
+        var t = document.createTextNode("Read More");
+        para.appendChild(t);
+
+        var parentElem = description.parentElement;
+        var readMoreLabel = parentElem.appendChild(para);
+
+        readMoreLabel.id = "readMoreToggle";
+        readMoreLabel.style.cssText = "padding-block: 20px; color: #16d202; cursor: pointer;";
+
+        readMoreLabel.onclick = function() {
+          if (description.style.maxHeight !== "10000px") {
+            description.style.cssText = "max-height: 10000px; transition: all 2s ease-in; padding-bottom: 20px;";
+            readMoreLabel.innerText = "Read Less";
+          } else {
+            description.style.cssText = "max-height: 200px; overflow: hidden;";
+            window.location.href = "#collection_description";
+            readMoreLabel.innerText = "Read More";
+          }
+        };
+      }
+    }
+
+    const observer = new MutationObserver(() => {
+      initializeReadMoreToggle();
+    });
+  
+    observer.observe(document.body, { childList: true, subtree: true });
+  </script>
+{%- endif -%}
