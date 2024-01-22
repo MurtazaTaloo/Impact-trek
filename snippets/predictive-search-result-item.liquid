@@ -32,8 +32,9 @@ Supported variables
           <span class="bold">
             <span class="reversed-link">{{ product.title }}</span>
           </span>
-
-          {%- render 'price-list', product: product -%}
+          {% if product.price > 0 %}
+            {%- render 'price-list', product: product -%}
+          {% endif %}  
         </div>
       </div>
     </a>
