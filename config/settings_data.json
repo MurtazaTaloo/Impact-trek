@@ -1,1 +1,1126 @@
-{"current":{"page_width":1400,"section_vertical_spacing":"large","section_boxed_horizontal_spacing":"medium","button_border_radius":60,"input_border_radius":8,"block_border_radius":24,"block_shadow_opacity":10,"block_shadow_vertical_offset":18,"background":"#ffffff","text_color":"#363636","header_background":"#ffffff","header_text_color":"#363636","footer_background":"#19171e","footer_text_color":"#ffffff","primary_button_background":"#16d101","primary_button_text_color":"#1a1a1a","secondary_button_background":"#1a1a1a","secondary_button_text_color":"#ffffff","product_card_text_color":"#1a1a1a","product_primary_badge_background":"#803cee","heading_font":"montserrat_n8","heading_font_size":"medium","heading_text_transform":"normal","heading_letter_spacing":2,"text_font":"montserrat_n6","text_font_size_mobile":14,"show_page_transition":true,"heading_apparition":"split_rotation","color_swatch_config":"RED:#","show_vendor":true,"show_secondary_image":false,"product_color_display":"swatch","product_image_aspect_ratio":"square","product_info_alignment":"center","social_facebook":"https:\/\/www.facebook.com\/TrekHardware\/","social_instagram":"https:\/\/www.instagram.com\/trekhardware\/","favicon":"shopify:\/\/shop_images\/trekicon.png","checkout_logo_image":"shopify:\/\/shop_images\/Trek-Hardware-Logo_a16072e9-6d85-4838-a60f-b14956a9f9e4.png","checkout_logo_size":"large","checkout_accent_color":"#363636","checkout_button_color":"#16d101","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"message":{"type":"message","disabled":true,"settings":{"text":"FIND OUR CHRISTMAS TRADING HOURS HERE","url":"https:\/\/www.trekhardware.com.au\/pages\/christmas-hours"}}},"block_order":["message"],"custom_css":[],"settings":{"enable_sticky":false,"text_size":"text-xs","navigation_mode":"arrows","scrolling_speed":10,"background":"#1a1a1a","background_gradient":"","text_color":"#ffffff"}},"header":{"type":"header","blocks":{"0d2b9602-aa96-413f-9a35-0ee65e650ab6":{"type":"mega_menu","settings":{"menu_item":"Trailer Parts","layout":"drawer","submenu_style":"bold_heading","image_heading_1":"","image_link_1":"","image_text_color_1":"#ffffff","image_heading_2":"","image_link_2":"","image_text_color_2":"#ffffff","image_heading_3":"","image_link_3":"","image_text_color_3":"#ffffff","product":"","product_card_background":"","product_card_text_color":"","promo_content_layout":"grid","stretch_promo":false,"drawer_link_image":"show"}},"cabb0f19-ef5e-46cd-86e7-5cf85a7189e9":{"type":"mega_menu","settings":{"menu_item":"trailer accessories","layout":"drawer","submenu_style":"bold_heading","image_heading_1":"","image_link_1":"","image_text_color_1":"#ffffff","image_heading_2":"","image_link_2":"","image_text_color_2":"#ffffff","image_heading_3":"","image_link_3":"","image_text_color_3":"#ffffff","product":"","product_card_background":"","product_card_text_color":"","promo_content_layout":"grid","stretch_promo":false,"drawer_link_image":"show"}},"a06c34f4-62fd-44d3-9bd8-87e3a7b8b06f":{"type":"mega_menu","settings":{"menu_item":"4x4 & offroad","layout":"drawer","submenu_style":"bold_heading","image_1":"shopify:\/\/shop_images\/3_f1a77262-9153-4b80-a28f-1cc08ee28ce2.jpg","image_heading_1":"BULLBARS","image_link_1":"shopify:\/\/collections\/bull-bars","image_text_color_1":"#ffffff","image_heading_2":"","image_link_2":"","image_text_color_2":"#ffffff","image_heading_3":"","image_link_3":"","image_text_color_3":"#ffffff","product":"","product_card_background":"","product_card_text_color":"","promo_content_layout":"carousel","stretch_promo":false,"drawer_link_image":"show"}},"0b0f819c-fdb3-4ae7-9520-1326f233fedd":{"type":"mega_menu","settings":{"menu_item":"lighting & electrical","layout":"drawer","submenu_style":"bold_heading","image_heading_1":"","image_link_1":"","image_text_color_1":"#ffffff","image_heading_2":"","image_link_2":"","image_text_color_2":"#ffffff","image_heading_3":"","image_link_3":"","image_text_color_3":"#ffffff","product":"","product_card_background":"","product_card_text_color":"","promo_content_layout":"grid","stretch_promo":false,"drawer_link_image":"show"}},"94fbd447-6142-4ff5-ba22-f9dbce6f66fa":{"type":"mega_menu","settings":{"menu_item":"hardware","layout":"drawer","submenu_style":"bold_heading","image_heading_1":"","image_link_1":"","image_text_color_1":"#ffffff","image_heading_2":"","image_link_2":"","image_text_color_2":"#ffffff","image_heading_3":"","image_link_3":"","image_text_color_3":"#ffffff","product":"","product_card_background":"","product_card_text_color":"","promo_content_layout":"grid","stretch_promo":false,"drawer_link_image":"show"}},"492e86be-e82c-4977-bc22-29c3ecf20161":{"type":"mega_menu","settings":{"menu_item":"caravan","layout":"drawer","submenu_style":"bold_heading","image_heading_1":"","image_link_1":"","image_text_color_1":"#ffffff","image_heading_2":"","image_link_2":"","image_text_color_2":"#ffffff","image_heading_3":"","image_link_3":"","image_text_color_3":"#ffffff","product":"","product_card_background":"","product_card_text_color":"","promo_content_layout":"grid","stretch_promo":false,"drawer_link_image":"show"}},"1169c3e7-df42-44b0-a452-08e99a125dd1":{"type":"mega_menu","settings":{"menu_item":"camping","layout":"drawer","submenu_style":"bold_heading","image_heading_1":"","image_link_1":"","image_text_color_1":"#ffffff","image_heading_2":"","image_link_2":"","image_text_color_2":"#ffffff","image_heading_3":"","image_link_3":"","image_text_color_3":"#ffffff","product":"","product_card_background":"","product_card_text_color":"","promo_content_layout":"grid","stretch_promo":false,"drawer_link_image":"show"}},"a7209d15-ca19-4e73-b17b-06da65c95b16":{"type":"mega_menu","settings":{"menu_item":"brands","layout":"drawer","submenu_style":"bold_heading","image_heading_1":"","image_link_1":"","image_text_color_1":"#ffffff","image_heading_2":"","image_link_2":"","image_text_color_2":"#ffffff","image_heading_3":"","image_link_3":"","image_text_color_3":"#ffffff","product":"","product_card_background":"","product_card_text_color":"","promo_content_layout":"grid","stretch_promo":false,"drawer_link_image":"hide"}},"46fea24b-96cb-4da1-9ae6-fc1d6a085858":{"type":"mega_menu","settings":{"menu_item":"help","layout":"horizontal_center","submenu_style":"bold_heading","image_heading_1":"","image_link_1":"","image_text_color_1":"#ffffff","image_heading_2":"","image_link_2":"","image_text_color_2":"#ffffff","image_heading_3":"","image_link_3":"","image_text_color_3":"#ffffff","product":"","product_card_background":"","product_card_text_color":"","promo_content_layout":"grid","stretch_promo":false,"drawer_link_image":"hide"}}},"block_order":["0d2b9602-aa96-413f-9a35-0ee65e650ab6","cabb0f19-ef5e-46cd-86e7-5cf85a7189e9","a06c34f4-62fd-44d3-9bd8-87e3a7b8b06f","0b0f819c-fdb3-4ae7-9520-1326f233fedd","94fbd447-6142-4ff5-ba22-f9dbce6f66fa","492e86be-e82c-4977-bc22-29c3ecf20161","1169c3e7-df42-44b0-a452-08e99a125dd1","a7209d15-ca19-4e73-b17b-06da65c95b16","46fea24b-96cb-4da1-9ae6-fc1d6a085858"],"custom_css":[".header__wrapper {padding-right: 30px; padding-left: 30px;}","store-header.header.is-filled {box-shadow: 1px 1px 18px 0px rgba(0, 0, 0, 0.75);}"],"settings":{"enable_sticky":true,"hide_on_scroll":false,"logo":"shopify:\/\/shop_images\/Trek-Hardware-Logo_a16072e9-6d85-4838-a60f-b14956a9f9e4.png","logo_max_width":160,"logo_mobile_max_width":150,"menu":"new-main-menu","sidebar_menu":"","secondary_menu":"","menu_open_trigger":"click","opening_from":"left","layout":"logo_left_navigation_center","show_social_media":true,"show_locale_selector":true,"show_country_selector":true,"show_country_flag":true,"show_country_name":false,"transparent_header_text_color":"#ffffff","reduce_padding":false,"background_opacity":100,"background_blur_radius":0}},"cart-drawer":{"type":"cart-drawer","settings":{"show_cart_note":true,"show_shipping_text":true,"show_checkout_button":true,"recommendations_title":"Trending this month","products":[],"product_card_background":"#ffffff","product_card_text_color":""}},"search-drawer":{"type":"search-drawer","settings":{"full_width":true,"show_article_category":true,"search_products":true,"search_blog_posts":true,"search_pages":true,"search_collections":true,"search_unavailable_products":"last","search_menu":"","search_menu_show_title":true}},"static-text-with-icons":{"type":"static-text-with-icons","blocks":{"discount":{"type":"item","settings":{"icon":"picto-coupon","custom_icon":"shopify:\/\/shop_images\/7_c997662d-e367-4f95-995b-ffbb1f585d6b.png","mobile_icon_width":60,"icon_width":60,"icon_background_type":"none","icon_background":"","icon_color":"","title":"OVER 1 MILLION HAPPY CUSTOMERS","content":""}},"customer-support":{"type":"item","settings":{"icon":"picto-customer-support","custom_icon":"shopify:\/\/shop_images\/4_445f310b-0268-4c88-b110-2af76cc0279b.png","mobile_icon_width":60,"icon_width":60,"icon_background_type":"none","icon_background":"","icon_color":"","title":"OPERATING SINCE 1991 OUT OF MELBOURNE","content":""}},"free-shipping":{"type":"item","settings":{"icon":"picto-box","custom_icon":"shopify:\/\/shop_images\/1_f63e2706-5eb8-4f8d-bd6e-9b72bef193b4.png","mobile_icon_width":60,"icon_width":60,"icon_background_type":"none","icon_background":"","icon_color":"rgba(0,0,0,0)","title":"100% AUSTRALIAN OWNED AND OPERATED","content":""}},"payment":{"type":"item","disabled":true,"settings":{"icon":"picto-lock","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","icon_background":"","icon_color":"","title":"Secure payment","content":"<p>Tel your customers about your payment methods.<\/p>"}}},"block_order":["discount","customer-support","free-shipping","payment"],"custom_css":["{border-top: 1px solid #19171e1c; padding-top: ;}",".text-with-icons {padding-top: 50px;}"],"settings":{"show_section":true,"full_width":true,"heading_tag":"h6","text_alignment":"center","icon_spacing":"small","background":"","background_gradient":"","text_color":""}},"footer":{"type":"footer","blocks":{"links":{"type":"links","settings":{"menu":"conditions-of-use","show_menu_title":true}},"526d5aa4-f08e-4ad7-96cf-d0b8287e03a6":{"type":"links","settings":{"menu":"footer-main-menu","show_menu_title":true}},"1226eb8f-3e4f-4e5a-9212-1581058855e5":{"type":"text","settings":{"title":"GET IN TOUCH","content":"<p><strong>Phone:<\/strong> <a href=\"tel:03%208401%203776\">(03) 8401 3776<\/a><\/p><p><strong>Email:<\/strong> <a href=\"mailto:sales@trekhardware.com.au\" title=\"Email us at sales@trekhardware.com.au\">sales@trekhardware.com.au<\/a><\/p><p><strong>Website:<\/strong> <a href=\"\/pages\/contact-us\" title=\"Contact us\">Contact Form<\/a><\/p><p><strong>In Person:<\/strong> <a href=\"\/pages\/storelocations\" title=\"Store Locations\">Locate Store<\/a><\/p>"}},"text":{"type":"text","disabled":true,"settings":{"title":"About","content":"<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"}},"newsletter":{"type":"newsletter","settings":{"image":"shopify:\/\/shop_images\/Trek-Hardware-Logo_a16072e9-6d85-4838-a60f-b14956a9f9e4.png","image_width":170,"heading_size":"h3","title":"SUBSCRIBE TODAY!","content":"<p>Sign up to get the latest on sales, new releases and more …<\/p>"}}},"block_order":["links","526d5aa4-f08e-4ad7-96cf-d0b8287e03a6","1226eb8f-3e4f-4e5a-9212-1581058855e5","text","newsletter"],"custom_css":[".footer__block--newsletter {text-align: center;}",".footer__newsletter-form {margin: 0 auto;}",".footer__block img {margin: 0 auto;}"],"settings":{"show_social_media":true,"show_payment_icons":true,"show_country_selector":true,"show_country_flag":true,"show_country_name":true,"show_locale_selector":true,"show_privacy_bar":true,"privacy_bar_title":"Cookie policy","privacy_bar_content":"<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"}},"newsletter-popup":{"type":"newsletter-popup","settings":{"enable":false,"apparition_delay":5,"show_only_on_index":true,"show_only_for_visitors":true,"show_only_once":true,"title":"Signup for our newsletter","button_text":"Subscribe","subtext":"Describe what your customers will receive when subscribing to your newsletter."}}},"content_for_index":[]},"presets":{"Sound":{"section_vertical_spacing":"medium","button_border_radius":60,"input_border_radius":8,"block_border_radius":24,"block_shadow_opacity":10,"block_shadow_vertical_offset":18,"background":"#f0f0f0","text_color":"#1a1a1a","header_background":"#f0f0f0","header_text_color":"#1a1a1a","footer_background":"#ffffff","footer_text_color":"#1a1a1a","primary_button_background":"#1a1a1a","primary_button_text_color":"#ffffff","secondary_button_background":"#f0c417","secondary_button_text_color":"#1a1a1a","product_card_text_color":"#1a1a1a","product_primary_badge_background":"#803cee","heading_font":"din_next_n7","heading_font_size":"large","heading_letter_spacing":-2,"text_font":"din_next_n4","show_page_transition":true,"heading_apparition":"split_fade","product_color_display":"swatch","product_info_alignment":"start","checkout_accent_color":"#f0c417","checkout_button_color":"#1a1a1a","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"message":{"type":"message","settings":{"text":"Announce something here"}}},"block_order":["message"],"settings":{"enable_sticky":false,"text_size":"text-xs","navigation_mode":"scrolling","scrolling_speed":10,"background":"#1a1a1a","text_color":"#ffffff"}},"header":{"type":"header","settings":{"enable_sticky":true,"hide_on_scroll":false,"logo":"{{shop.brand.logo}}","logo_max_width":120,"logo_mobile_max_width":100,"menu":"main-menu","menu_open_trigger":"click","opening_from":"bottom","layout":"logo_left_navigation_center","show_social_media":true,"show_country_flag":true,"show_country_name":false,"transparent_header_text_color":"#ffffff","reduce_padding":false,"background_opacity":100,"background_blur_radius":0}},"cart-drawer":{"type":"cart-drawer","settings":{"show_cart_note":true,"show_shipping_text":true,"show_checkout_button":true,"product_card_background":"#ffffff"}},"search-drawer":{"type":"search-drawer","settings":{"full_width":true,"show_article_category":true,"search_products":true,"search_blog_posts":true,"search_pages":true,"search_collections":true,"search_unavailable_products":"last"}},"static-text-with-icons":{"type":"static-text-with-icons","blocks":{"free-shipping":{"type":"item","settings":{"icon":"picto-box","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","title":"Free shipping","content":"<p>Tell your customers about your shipping offer.<\/p>"}},"customer-support":{"type":"item","settings":{"icon":"picto-customer-support","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","title":"Customer service","content":"<p>Tell your customers how they can reach you.<\/p>"}},"discount":{"type":"item","settings":{"icon":"picto-coupon","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","title":"Refer a friend","content":"<p>Tell your customers about your promotional offers.<\/p>"}},"payment":{"type":"item","settings":{"icon":"picto-lock","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","title":"Secure payment","content":"<p>Tel your customers about your payment methods.<\/p>"}}},"block_order":["free-shipping","customer-support","discount","payment"],"settings":{"show_section":true,"full_width":true,"heading_tag":"h6","text_alignment":"center","icon_spacing":"small"}},"footer":{"type":"footer","blocks":{"newsletter":{"type":"newsletter","settings":{"image":"{{shop.brand.logo}}","image_width":150,"heading_size":"h3","title":"Sign up for new stories and personal offers"}},"links":{"type":"links","settings":{"menu":"footer","show_menu_title":true}},"text":{"type":"text","settings":{"title":"About","content":"<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"}}},"block_order":["newsletter","links","text"],"settings":{"show_social_media":true,"show_payment_icons":true,"show_country_selector":true,"show_country_flag":true,"show_country_name":true,"show_locale_selector":true,"show_privacy_bar":true,"privacy_bar_title":"Cookie policy","privacy_bar_content":"<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"}}}},"Home":{"section_vertical_spacing":"medium","section_boxed_horizontal_spacing":"large","button_hover_effect":"reverse","background":"#ffffff","text_color":"#272727","success_color":"#708a5c","warning_color":"#e37e16","error_color":"#aa2826","header_background":"#ffffff","header_text_color":"#272727","footer_background":"#f2f2f2","footer_text_color":"#272727","primary_button_background":"#272727","primary_button_text_color":"#ffffff","secondary_button_background":"#3c619e","secondary_button_text_color":"#ffffff","product_card_text_color":"#272727","product_on_sale_accent":"#e34f4f","product_sold_out_badge_background":"#bebdb9","product_primary_badge_background":"#3c619e","heading_font":"futura_n7","heading_font_size":"large","heading_text_transform":"normal","heading_letter_spacing":-1,"text_font":"futura_n4","heading_apparition":"split_rotation","color_swatch_style":"rectangle","product_color_display":"swatch","cart_type":"drawer","checkout_body_background_color":"#f2f2f2","checkout_sidebar_background_color":"#ffffff","checkout_accent_color":"#3c619e","checkout_button_color":"#3c619e","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"message":{"type":"message","settings":{"text":"Announce something here"}}},"block_order":["message"],"settings":{"enable_sticky":false,"text_size":"text-xs","navigation_mode":"arrows","scrolling_speed":20,"background":"#272727","text_color":"#ffffff"}},"header":{"type":"header","settings":{"enable_sticky":true,"hide_on_scroll":false,"logo":"{{shop.brand.logo}}","logo_max_width":120,"logo_mobile_max_width":100,"menu":"main-menu","menu_open_trigger":"hover","opening_from":"bottom","layout":"logo_center_navigation_inline","show_social_media":true,"show_country_flag":true,"show_country_name":false,"transparent_header_text_color":"#ffffff","reduce_padding":false,"background_opacity":100,"background_blur_radius":0}},"footer":{"type":"footer","blocks":{"newsletter":{"type":"newsletter","settings":{"image":"{{shop.brand.logo}}","image_width":150,"heading_size":"h3","title":"Sign up for new stories and personal offers"}},"links":{"type":"links","settings":{"menu":"footer","show_menu_title":true}},"text":{"type":"text","settings":{"title":"About","content":"<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"}}},"block_order":["newsletter","links","text"],"settings":{"show_social_media":true,"show_payment_icons":true,"show_locale_selector":true,"show_country_selector":true,"show_country_flag":true,"show_country_name":true,"show_privacy_bar":true,"privacy_bar_title":"Cookie policy","privacy_bar_content":"<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"}},"static-text-with-icons":{"type":"static-text-with-icons","blocks":{"free-shipping":{"type":"item","settings":{"icon":"picto-box","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","title":"Free shipping","content":"<p>Tell your customers about your shipping offer.<\/p>"}},"customer-support":{"type":"item","settings":{"icon":"picto-customer-support","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","title":"Customer service","content":"<p>Tell your customers how they can reach you.<\/p>"}},"discount":{"type":"item","settings":{"icon":"picto-coupon","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","title":"Refer a friend","content":"<p>Tell your customers about your promotional offers.<\/p>"}},"payment":{"type":"item","settings":{"icon":"picto-lock","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","title":"Secure payment","content":"<p>Tel your customers about your payment methods.<\/p>"}}},"block_order":["free-shipping","customer-support","discount","payment"],"settings":{"show_section":true,"full_width":true,"heading_tag":"h6","text_alignment":"center","icon_spacing":"small"}},"cart-drawer":{"type":"cart-drawer","settings":{"show_cart_note":true,"show_shipping_text":true,"show_checkout_button":true,"product_card_background":"#f2f2f2"}},"search-drawer":{"type":"search-drawer","settings":{"full_width":false,"show_article_category":true,"search_products":true,"search_blog_posts":true,"search_pages":false,"search_collections":true,"search_unavailable_products":"last"}}}},"Shape":{"page_width":1440,"section_vertical_spacing":"small","section_boxed_horizontal_spacing":"medium","button_border_radius":60,"input_border_radius":8,"block_border_radius":20,"icon_stroke_width":1.5,"button_style":"fill","button_hover_effect":"reverse","text_color":"#2a555a","header_background":"#ffffff","header_text_color":"#2a555a","footer_background":"#f7f7f7","footer_text_color":"#2a555a","primary_button_background":"#2a555a","primary_button_text_color":"#ffffff","secondary_button_background":"#d9967e","product_card_text_color":"#2a555a","heading_font":"itc_berkeley_old_style_n4","heading_font_size":"large","heading_text_transform":"normal","heading_letter_spacing":-1,"text_font":"muli_n4","text_font_size_desktop":15,"product_color_display":"swatch","product_info_alignment":"center","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"message":{"type":"message","settings":{"text":"Announce something here"}}},"block_order":["message"],"settings":{"enable_sticky":false,"text_size":"text-xs","navigation_mode":"scrolling","scrolling_speed":12,"background":"#2a555a","text_color":"#ffffff"}},"header":{"type":"header","settings":{"enable_sticky":true,"hide_on_scroll":false,"logo":"{{shop.brand.logo}}","logo_max_width":120,"logo_mobile_max_width":100,"menu":"main-menu","menu_open_trigger":"click","opening_from":"bottom","layout":"logo_center_navigation_inline","show_social_media":true,"show_country_flag":true,"show_country_name":false,"transparent_header_text_color":"#ffffff","reduce_padding":false,"background_opacity":20,"background_blur_radius":20}},"cart-drawer":{"type":"cart-drawer","settings":{"show_cart_note":true,"show_shipping_text":true,"show_checkout_button":true}},"search-drawer":{"type":"search-drawer","settings":{"full_width":false,"show_article_category":true,"search_products":true,"search_blog_posts":true,"search_pages":true,"search_collections":true,"search_unavailable_products":"last"}},"static-text-with-icons":{"type":"static-text-with-icons","blocks":{"free-shipping":{"type":"item","settings":{"icon":"picto-box","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","title":"Free shipping","content":"<p>Tell your customers about your shipping offer.<\/p>"}},"customer-support":{"type":"item","settings":{"icon":"picto-customer-support","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","title":"Customer service","content":"<p>Tell your customers how they can reach you.<\/p>"}},"discount":{"type":"item","settings":{"icon":"picto-coupon","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","title":"Refer a friend","content":"<p>Tell your customers about your promotional offers.<\/p>"}},"payment":{"type":"item","settings":{"icon":"picto-lock","mobile_icon_width":24,"icon_width":24,"icon_background_type":"none","title":"Secure payment","content":"<p>Tel your customers about your payment methods.<\/p>"}}},"block_order":["free-shipping","customer-support","discount","payment"],"settings":{"show_section":true,"full_width":true,"heading_tag":"h4","text_alignment":"center","icon_spacing":"small"}},"footer":{"type":"footer","blocks":{"newsletter":{"type":"newsletter","settings":{"image":"{{shop.brand.logo}}","image_width":150,"heading_size":"h3","title":"Sign up for new stories and personal offers"}},"links":{"type":"links","settings":{"menu":"footer","show_menu_title":true}},"text":{"type":"text","settings":{"title":"About","content":"<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"}}},"block_order":["newsletter","links","text"],"settings":{"show_social_media":true,"show_payment_icons":true,"show_country_selector":true,"show_country_flag":true,"show_country_name":true,"show_locale_selector":true,"show_privacy_bar":true,"privacy_bar_title":"Cookie policy","privacy_bar_content":"<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"}}}}}}
+{
+  "current": {
+    "page_width": 1400,
+    "section_vertical_spacing": "large",
+    "section_boxed_horizontal_spacing": "medium",
+    "button_border_radius": 60,
+    "input_border_radius": 8,
+    "block_border_radius": 24,
+    "block_shadow_opacity": 10,
+    "block_shadow_vertical_offset": 18,
+    "background": "#ffffff",
+    "text_color": "#363636",
+    "header_background": "#ffffff",
+    "header_text_color": "#363636",
+    "footer_background": "#19171e",
+    "footer_text_color": "#ffffff",
+    "primary_button_background": "#16d101",
+    "primary_button_text_color": "#1a1a1a",
+    "secondary_button_background": "#1a1a1a",
+    "secondary_button_text_color": "#ffffff",
+    "product_card_text_color": "#1a1a1a",
+    "product_primary_badge_background": "#803cee",
+    "heading_font": "montserrat_n8",
+    "heading_font_size": "medium",
+    "heading_text_transform": "normal",
+    "heading_letter_spacing": 2,
+    "text_font": "montserrat_n6",
+    "text_font_size_mobile": 14,
+    "show_page_transition": true,
+    "heading_apparition": "split_rotation",
+    "color_swatch_config": "RED:#",
+    "show_vendor": true,
+    "show_secondary_image": false,
+    "product_color_display": "swatch",
+    "product_image_aspect_ratio": "square",
+    "product_info_alignment": "center",
+    "social_facebook": "https:\/\/www.facebook.com\/TrekHardware\/",
+    "social_instagram": "https:\/\/www.instagram.com\/trekhardware\/",
+    "favicon": "shopify:\/\/shop_images\/trekicon.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Trek-Hardware-Logo_a16072e9-6d85-4838-a60f-b14956a9f9e4.png",
+    "checkout_logo_size": "large",
+    "checkout_accent_color": "#363636",
+    "checkout_button_color": "#16d101",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "message": {
+            "type": "message",
+            "settings": {
+              "text": "Heads up! We'll be taking a short break for the Australia Day weekend from Jan 26th to 28th. We'll be back and ready to assist you on Jan 29th",
+              "url": "https:\/\/www.trekhardware.com.au\/pages\/christmas-hours"
+            }
+          }
+        },
+        "block_order": [
+          "message"
+        ],
+        "custom_css": [
+          ".announcement-bar__wrapper{max-width:unset;}"
+        ],
+        "settings": {
+          "enable_sticky": false,
+          "text_size": "text-base",
+          "navigation_mode": "arrows",
+          "scrolling_speed": 10,
+          "background": "#1a1a1a",
+          "background_gradient": "",
+          "text_color": "#ffffff"
+        }
+      },
+      "header": {
+        "type": "header",
+        "blocks": {
+          "0d2b9602-aa96-413f-9a35-0ee65e650ab6": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "Trailer Parts",
+              "layout": "drawer",
+              "submenu_style": "bold_heading",
+              "image_heading_1": "",
+              "image_link_1": "",
+              "image_text_color_1": "#ffffff",
+              "image_heading_2": "",
+              "image_link_2": "",
+              "image_text_color_2": "#ffffff",
+              "image_heading_3": "",
+              "image_link_3": "",
+              "image_text_color_3": "#ffffff",
+              "product": "",
+              "product_card_background": "",
+              "product_card_text_color": "",
+              "promo_content_layout": "grid",
+              "stretch_promo": false,
+              "drawer_link_image": "show"
+            }
+          },
+          "cabb0f19-ef5e-46cd-86e7-5cf85a7189e9": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "trailer accessories",
+              "layout": "drawer",
+              "submenu_style": "bold_heading",
+              "image_heading_1": "",
+              "image_link_1": "",
+              "image_text_color_1": "#ffffff",
+              "image_heading_2": "",
+              "image_link_2": "",
+              "image_text_color_2": "#ffffff",
+              "image_heading_3": "",
+              "image_link_3": "",
+              "image_text_color_3": "#ffffff",
+              "product": "",
+              "product_card_background": "",
+              "product_card_text_color": "",
+              "promo_content_layout": "grid",
+              "stretch_promo": false,
+              "drawer_link_image": "show"
+            }
+          },
+          "a06c34f4-62fd-44d3-9bd8-87e3a7b8b06f": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "4x4 & offroad",
+              "layout": "drawer",
+              "submenu_style": "bold_heading",
+              "image_1": "shopify:\/\/shop_images\/3_f1a77262-9153-4b80-a28f-1cc08ee28ce2.jpg",
+              "image_heading_1": "BULLBARS",
+              "image_link_1": "shopify:\/\/collections\/bull-bars",
+              "image_text_color_1": "#ffffff",
+              "image_heading_2": "",
+              "image_link_2": "",
+              "image_text_color_2": "#ffffff",
+              "image_heading_3": "",
+              "image_link_3": "",
+              "image_text_color_3": "#ffffff",
+              "product": "",
+              "product_card_background": "",
+              "product_card_text_color": "",
+              "promo_content_layout": "carousel",
+              "stretch_promo": false,
+              "drawer_link_image": "show"
+            }
+          },
+          "0b0f819c-fdb3-4ae7-9520-1326f233fedd": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "lighting & electrical",
+              "layout": "drawer",
+              "submenu_style": "bold_heading",
+              "image_heading_1": "",
+              "image_link_1": "",
+              "image_text_color_1": "#ffffff",
+              "image_heading_2": "",
+              "image_link_2": "",
+              "image_text_color_2": "#ffffff",
+              "image_heading_3": "",
+              "image_link_3": "",
+              "image_text_color_3": "#ffffff",
+              "product": "",
+              "product_card_background": "",
+              "product_card_text_color": "",
+              "promo_content_layout": "grid",
+              "stretch_promo": false,
+              "drawer_link_image": "show"
+            }
+          },
+          "94fbd447-6142-4ff5-ba22-f9dbce6f66fa": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "hardware",
+              "layout": "drawer",
+              "submenu_style": "bold_heading",
+              "image_heading_1": "",
+              "image_link_1": "",
+              "image_text_color_1": "#ffffff",
+              "image_heading_2": "",
+              "image_link_2": "",
+              "image_text_color_2": "#ffffff",
+              "image_heading_3": "",
+              "image_link_3": "",
+              "image_text_color_3": "#ffffff",
+              "product": "",
+              "product_card_background": "",
+              "product_card_text_color": "",
+              "promo_content_layout": "grid",
+              "stretch_promo": false,
+              "drawer_link_image": "show"
+            }
+          },
+          "492e86be-e82c-4977-bc22-29c3ecf20161": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "caravan",
+              "layout": "drawer",
+              "submenu_style": "bold_heading",
+              "image_heading_1": "",
+              "image_link_1": "",
+              "image_text_color_1": "#ffffff",
+              "image_heading_2": "",
+              "image_link_2": "",
+              "image_text_color_2": "#ffffff",
+              "image_heading_3": "",
+              "image_link_3": "",
+              "image_text_color_3": "#ffffff",
+              "product": "",
+              "product_card_background": "",
+              "product_card_text_color": "",
+              "promo_content_layout": "grid",
+              "stretch_promo": false,
+              "drawer_link_image": "show"
+            }
+          },
+          "1169c3e7-df42-44b0-a452-08e99a125dd1": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "camping",
+              "layout": "drawer",
+              "submenu_style": "bold_heading",
+              "image_heading_1": "",
+              "image_link_1": "",
+              "image_text_color_1": "#ffffff",
+              "image_heading_2": "",
+              "image_link_2": "",
+              "image_text_color_2": "#ffffff",
+              "image_heading_3": "",
+              "image_link_3": "",
+              "image_text_color_3": "#ffffff",
+              "product": "",
+              "product_card_background": "",
+              "product_card_text_color": "",
+              "promo_content_layout": "grid",
+              "stretch_promo": false,
+              "drawer_link_image": "show"
+            }
+          },
+          "a7209d15-ca19-4e73-b17b-06da65c95b16": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "brands",
+              "layout": "drawer",
+              "submenu_style": "bold_heading",
+              "image_heading_1": "",
+              "image_link_1": "",
+              "image_text_color_1": "#ffffff",
+              "image_heading_2": "",
+              "image_link_2": "",
+              "image_text_color_2": "#ffffff",
+              "image_heading_3": "",
+              "image_link_3": "",
+              "image_text_color_3": "#ffffff",
+              "product": "",
+              "product_card_background": "",
+              "product_card_text_color": "",
+              "promo_content_layout": "grid",
+              "stretch_promo": false,
+              "drawer_link_image": "hide"
+            }
+          },
+          "46fea24b-96cb-4da1-9ae6-fc1d6a085858": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "help",
+              "layout": "horizontal_center",
+              "submenu_style": "bold_heading",
+              "image_heading_1": "",
+              "image_link_1": "",
+              "image_text_color_1": "#ffffff",
+              "image_heading_2": "",
+              "image_link_2": "",
+              "image_text_color_2": "#ffffff",
+              "image_heading_3": "",
+              "image_link_3": "",
+              "image_text_color_3": "#ffffff",
+              "product": "",
+              "product_card_background": "",
+              "product_card_text_color": "",
+              "promo_content_layout": "grid",
+              "stretch_promo": false,
+              "drawer_link_image": "hide"
+            }
+          }
+        },
+        "block_order": [
+          "0d2b9602-aa96-413f-9a35-0ee65e650ab6",
+          "cabb0f19-ef5e-46cd-86e7-5cf85a7189e9",
+          "a06c34f4-62fd-44d3-9bd8-87e3a7b8b06f",
+          "0b0f819c-fdb3-4ae7-9520-1326f233fedd",
+          "94fbd447-6142-4ff5-ba22-f9dbce6f66fa",
+          "492e86be-e82c-4977-bc22-29c3ecf20161",
+          "1169c3e7-df42-44b0-a452-08e99a125dd1",
+          "a7209d15-ca19-4e73-b17b-06da65c95b16",
+          "46fea24b-96cb-4da1-9ae6-fc1d6a085858"
+        ],
+        "custom_css": [
+          ".header__wrapper {padding-right: 30px; padding-left: 30px;}",
+          "store-header.header.is-filled {box-shadow: 1px 1px 18px 0px rgba(0, 0, 0, 0.75);}"
+        ],
+        "settings": {
+          "enable_sticky": true,
+          "hide_on_scroll": false,
+          "logo": "shopify:\/\/shop_images\/Trek-Hardware-Logo_a16072e9-6d85-4838-a60f-b14956a9f9e4.png",
+          "logo_max_width": 160,
+          "logo_mobile_max_width": 150,
+          "menu": "new-main-menu",
+          "sidebar_menu": "",
+          "secondary_menu": "",
+          "menu_open_trigger": "click",
+          "opening_from": "left",
+          "layout": "logo_left_navigation_center",
+          "show_social_media": true,
+          "show_locale_selector": true,
+          "show_country_selector": true,
+          "show_country_flag": true,
+          "show_country_name": false,
+          "transparent_header_text_color": "#ffffff",
+          "reduce_padding": false,
+          "background_opacity": 100,
+          "background_blur_radius": 0
+        }
+      },
+      "cart-drawer": {
+        "type": "cart-drawer",
+        "settings": {
+          "show_cart_note": true,
+          "show_shipping_text": true,
+          "show_checkout_button": true,
+          "recommendations_title": "Trending this month",
+          "products": [
+
+          ],
+          "product_card_background": "#ffffff",
+          "product_card_text_color": ""
+        }
+      },
+      "search-drawer": {
+        "type": "search-drawer",
+        "settings": {
+          "full_width": true,
+          "show_article_category": true,
+          "search_products": true,
+          "search_blog_posts": true,
+          "search_pages": true,
+          "search_collections": true,
+          "search_unavailable_products": "last",
+          "search_menu": "",
+          "search_menu_show_title": true
+        }
+      },
+      "static-text-with-icons": {
+        "type": "static-text-with-icons",
+        "blocks": {
+          "discount": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-coupon",
+              "custom_icon": "shopify:\/\/shop_images\/7_c997662d-e367-4f95-995b-ffbb1f585d6b.png",
+              "mobile_icon_width": 60,
+              "icon_width": 60,
+              "icon_background_type": "none",
+              "icon_background": "",
+              "icon_color": "",
+              "title": "OVER 1 MILLION HAPPY CUSTOMERS",
+              "content": ""
+            }
+          },
+          "customer-support": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-customer-support",
+              "custom_icon": "shopify:\/\/shop_images\/4_445f310b-0268-4c88-b110-2af76cc0279b.png",
+              "mobile_icon_width": 60,
+              "icon_width": 60,
+              "icon_background_type": "none",
+              "icon_background": "",
+              "icon_color": "",
+              "title": "OPERATING SINCE 1991 OUT OF MELBOURNE",
+              "content": ""
+            }
+          },
+          "free-shipping": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-box",
+              "custom_icon": "shopify:\/\/shop_images\/1_f63e2706-5eb8-4f8d-bd6e-9b72bef193b4.png",
+              "mobile_icon_width": 60,
+              "icon_width": 60,
+              "icon_background_type": "none",
+              "icon_background": "",
+              "icon_color": "rgba(0,0,0,0)",
+              "title": "100% AUSTRALIAN OWNED AND OPERATED",
+              "content": ""
+            }
+          },
+          "payment": {
+            "type": "item",
+            "disabled": true,
+            "settings": {
+              "icon": "picto-lock",
+              "mobile_icon_width": 24,
+              "icon_width": 24,
+              "icon_background_type": "none",
+              "icon_background": "",
+              "icon_color": "",
+              "title": "Secure payment",
+              "content": "<p>Tel your customers about your payment methods.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "discount",
+          "customer-support",
+          "free-shipping",
+          "payment"
+        ],
+        "custom_css": [
+          "{border-top: 1px solid #19171e1c; padding-top: ;}",
+          ".text-with-icons {padding-top: 50px;}"
+        ],
+        "settings": {
+          "show_section": true,
+          "full_width": true,
+          "heading_tag": "h6",
+          "text_alignment": "center",
+          "icon_spacing": "small",
+          "background": "",
+          "background_gradient": "",
+          "text_color": ""
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "links": {
+            "type": "links",
+            "settings": {
+              "menu": "conditions-of-use",
+              "show_menu_title": true
+            }
+          },
+          "526d5aa4-f08e-4ad7-96cf-d0b8287e03a6": {
+            "type": "links",
+            "settings": {
+              "menu": "footer-main-menu",
+              "show_menu_title": true
+            }
+          },
+          "1226eb8f-3e4f-4e5a-9212-1581058855e5": {
+            "type": "text",
+            "settings": {
+              "title": "GET IN TOUCH",
+              "content": "<p><strong>Phone:<\/strong> <a href=\"tel:03%208401%203776\">(03) 8401 3776<\/a><\/p><p><strong>Email:<\/strong> <a href=\"mailto:sales@trekhardware.com.au\" title=\"Email us at sales@trekhardware.com.au\">sales@trekhardware.com.au<\/a><\/p><p><strong>Website:<\/strong> <a href=\"\/pages\/contact-us\" title=\"Contact us\">Contact Form<\/a><\/p><p><strong>In Person:<\/strong> <a href=\"\/pages\/storelocations\" title=\"Store Locations\">Locate Store<\/a><\/p>"
+            }
+          },
+          "text": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "title": "About",
+              "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"
+            }
+          },
+          "newsletter": {
+            "type": "newsletter",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Trek-Hardware-Logo_a16072e9-6d85-4838-a60f-b14956a9f9e4.png",
+              "image_width": 170,
+              "heading_size": "h3",
+              "title": "SUBSCRIBE TODAY!",
+              "content": "<p>Sign up to get the latest on sales, new releases and more …<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "links",
+          "526d5aa4-f08e-4ad7-96cf-d0b8287e03a6",
+          "1226eb8f-3e4f-4e5a-9212-1581058855e5",
+          "text",
+          "newsletter"
+        ],
+        "custom_css": [
+          ".footer__block--newsletter {text-align: center;}",
+          ".footer__newsletter-form {margin: 0 auto;}",
+          ".footer__block img {margin: 0 auto;}"
+        ],
+        "settings": {
+          "show_social_media": true,
+          "show_payment_icons": true,
+          "show_country_selector": true,
+          "show_country_flag": true,
+          "show_country_name": true,
+          "show_locale_selector": true,
+          "show_privacy_bar": true,
+          "privacy_bar_title": "Cookie policy",
+          "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"
+        }
+      },
+      "newsletter-popup": {
+        "type": "newsletter-popup",
+        "settings": {
+          "enable": false,
+          "apparition_delay": 5,
+          "show_only_on_index": true,
+          "show_only_for_visitors": true,
+          "show_only_once": true,
+          "title": "Signup for our newsletter",
+          "button_text": "Subscribe",
+          "subtext": "Describe what your customers will receive when subscribing to your newsletter."
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  },
+  "presets": {
+    "Sound": {
+      "section_vertical_spacing": "medium",
+      "button_border_radius": 60,
+      "input_border_radius": 8,
+      "block_border_radius": 24,
+      "block_shadow_opacity": 10,
+      "block_shadow_vertical_offset": 18,
+      "background": "#f0f0f0",
+      "text_color": "#1a1a1a",
+      "header_background": "#f0f0f0",
+      "header_text_color": "#1a1a1a",
+      "footer_background": "#ffffff",
+      "footer_text_color": "#1a1a1a",
+      "primary_button_background": "#1a1a1a",
+      "primary_button_text_color": "#ffffff",
+      "secondary_button_background": "#f0c417",
+      "secondary_button_text_color": "#1a1a1a",
+      "product_card_text_color": "#1a1a1a",
+      "product_primary_badge_background": "#803cee",
+      "heading_font": "din_next_n7",
+      "heading_font_size": "large",
+      "heading_letter_spacing": -2,
+      "text_font": "din_next_n4",
+      "show_page_transition": true,
+      "heading_apparition": "split_fade",
+      "product_color_display": "swatch",
+      "product_info_alignment": "start",
+      "checkout_accent_color": "#f0c417",
+      "checkout_button_color": "#1a1a1a",
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "message": {
+              "type": "message",
+              "settings": {
+                "text": "Announce something here"
+              }
+            }
+          },
+          "block_order": [
+            "message"
+          ],
+          "settings": {
+            "enable_sticky": false,
+            "text_size": "text-xs",
+            "navigation_mode": "scrolling",
+            "scrolling_speed": 10,
+            "background": "#1a1a1a",
+            "text_color": "#ffffff"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "enable_sticky": true,
+            "hide_on_scroll": false,
+            "logo": "{{shop.brand.logo}}",
+            "logo_max_width": 120,
+            "logo_mobile_max_width": 100,
+            "menu": "main-menu",
+            "menu_open_trigger": "click",
+            "opening_from": "bottom",
+            "layout": "logo_left_navigation_center",
+            "show_social_media": true,
+            "show_country_flag": true,
+            "show_country_name": false,
+            "transparent_header_text_color": "#ffffff",
+            "reduce_padding": false,
+            "background_opacity": 100,
+            "background_blur_radius": 0
+          }
+        },
+        "cart-drawer": {
+          "type": "cart-drawer",
+          "settings": {
+            "show_cart_note": true,
+            "show_shipping_text": true,
+            "show_checkout_button": true,
+            "product_card_background": "#ffffff"
+          }
+        },
+        "search-drawer": {
+          "type": "search-drawer",
+          "settings": {
+            "full_width": true,
+            "show_article_category": true,
+            "search_products": true,
+            "search_blog_posts": true,
+            "search_pages": true,
+            "search_collections": true,
+            "search_unavailable_products": "last"
+          }
+        },
+        "static-text-with-icons": {
+          "type": "static-text-with-icons",
+          "blocks": {
+            "free-shipping": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-box",
+                "mobile_icon_width": 24,
+                "icon_width": 24,
+                "icon_background_type": "none",
+                "title": "Free shipping",
+                "content": "<p>Tell your customers about your shipping offer.<\/p>"
+              }
+            },
+            "customer-support": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-customer-support",
+                "mobile_icon_width": 24,
+                "icon_width": 24,
+                "icon_background_type": "none",
+                "title": "Customer service",
+                "content": "<p>Tell your customers how they can reach you.<\/p>"
+              }
+            },
+            "discount": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-coupon",
+                "mobile_icon_width": 24,
+                "icon_width": 24,
+                "icon_background_type": "none",
+                "title": "Refer a friend",
+                "content": "<p>Tell your customers about your promotional offers.<\/p>"
+              }
+            },
+            "payment": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-lock",
+                "mobile_icon_width": 24,
+                "icon_width": 24,
+                "icon_background_type": "none",
+                "title": "Secure payment",
+                "content": "<p>Tel your customers about your payment methods.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "free-shipping",
+            "customer-support",
+            "discount",
+            "payment"
+          ],
+          "settings": {
+            "show_section": true,
+            "full_width": true,
+            "heading_tag": "h6",
+            "text_alignment": "center",
+            "icon_spacing": "small"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {
+                "image": "{{shop.brand.logo}}",
+                "image_width": 150,
+                "heading_size": "h3",
+                "title": "Sign up for new stories and personal offers"
+              }
+            },
+            "links": {
+              "type": "links",
+              "settings": {
+                "menu": "footer",
+                "show_menu_title": true
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+                "title": "About",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "newsletter",
+            "links",
+            "text"
+          ],
+          "settings": {
+            "show_social_media": true,
+            "show_payment_icons": true,
+            "show_country_selector": true,
+            "show_country_flag": true,
+            "show_country_name": true,
+            "show_locale_selector": true,
+            "show_privacy_bar": true,
+            "privacy_bar_title": "Cookie policy",
+            "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"
+          }
+        }
+      }
+    },
+    "Home": {
+      "section_vertical_spacing": "medium",
+      "section_boxed_horizontal_spacing": "large",
+      "button_hover_effect": "reverse",
+      "background": "#ffffff",
+      "text_color": "#272727",
+      "success_color": "#708a5c",
+      "warning_color": "#e37e16",
+      "error_color": "#aa2826",
+      "header_background": "#ffffff",
+      "header_text_color": "#272727",
+      "footer_background": "#f2f2f2",
+      "footer_text_color": "#272727",
+      "primary_button_background": "#272727",
+      "primary_button_text_color": "#ffffff",
+      "secondary_button_background": "#3c619e",
+      "secondary_button_text_color": "#ffffff",
+      "product_card_text_color": "#272727",
+      "product_on_sale_accent": "#e34f4f",
+      "product_sold_out_badge_background": "#bebdb9",
+      "product_primary_badge_background": "#3c619e",
+      "heading_font": "futura_n7",
+      "heading_font_size": "large",
+      "heading_text_transform": "normal",
+      "heading_letter_spacing": -1,
+      "text_font": "futura_n4",
+      "heading_apparition": "split_rotation",
+      "color_swatch_style": "rectangle",
+      "product_color_display": "swatch",
+      "cart_type": "drawer",
+      "checkout_body_background_color": "#f2f2f2",
+      "checkout_sidebar_background_color": "#ffffff",
+      "checkout_accent_color": "#3c619e",
+      "checkout_button_color": "#3c619e",
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "message": {
+              "type": "message",
+              "settings": {
+                "text": "Announce something here"
+              }
+            }
+          },
+          "block_order": [
+            "message"
+          ],
+          "settings": {
+            "enable_sticky": false,
+            "text_size": "text-xs",
+            "navigation_mode": "arrows",
+            "scrolling_speed": 20,
+            "background": "#272727",
+            "text_color": "#ffffff"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "enable_sticky": true,
+            "hide_on_scroll": false,
+            "logo": "{{shop.brand.logo}}",
+            "logo_max_width": 120,
+            "logo_mobile_max_width": 100,
+            "menu": "main-menu",
+            "menu_open_trigger": "hover",
+            "opening_from": "bottom",
+            "layout": "logo_center_navigation_inline",
+            "show_social_media": true,
+            "show_country_flag": true,
+            "show_country_name": false,
+            "transparent_header_text_color": "#ffffff",
+            "reduce_padding": false,
+            "background_opacity": 100,
+            "background_blur_radius": 0
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {
+                "image": "{{shop.brand.logo}}",
+                "image_width": 150,
+                "heading_size": "h3",
+                "title": "Sign up for new stories and personal offers"
+              }
+            },
+            "links": {
+              "type": "links",
+              "settings": {
+                "menu": "footer",
+                "show_menu_title": true
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+                "title": "About",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "newsletter",
+            "links",
+            "text"
+          ],
+          "settings": {
+            "show_social_media": true,
+            "show_payment_icons": true,
+            "show_locale_selector": true,
+            "show_country_selector": true,
+            "show_country_flag": true,
+            "show_country_name": true,
+            "show_privacy_bar": true,
+            "privacy_bar_title": "Cookie policy",
+            "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"
+          }
+        },
+        "static-text-with-icons": {
+          "type": "static-text-with-icons",
+          "blocks": {
+            "free-shipping": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-box",
+                "mobile_icon_width": 24,
+                "icon_width": 24,
+                "icon_background_type": "none",
+                "title": "Free shipping",
+                "content": "<p>Tell your customers about your shipping offer.<\/p>"
+              }
+            },
+            "customer-support": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-customer-support",
+                "mobile_icon_width": 24,
+                "icon_width": 24,
+                "icon_background_type": "none",
+                "title": "Customer service",
+                "content": "<p>Tell your customers how they can reach you.<\/p>"
+              }
+            },
+            "discount": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-coupon",
+                "mobile_icon_width": 24,
+                "icon_width": 24,
+                "icon_background_type": "none",
+                "title": "Refer a friend",
+                "content": "<p>Tell your customers about your promotional offers.<\/p>"
+              }
+            },
+            "payment": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-lock",
+                "mobile_icon_width": 24,
+                "icon_width": 24,
+                "icon_background_type": "none",
+                "title": "Secure payment",
+                "content": "<p>Tel your customers about your payment methods.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "free-shipping",
+            "customer-support",
+            "discount",
+            "payment"
+          ],
+          "settings": {
+            "show_section": true,
+            "full_width": true,
+            "heading_tag": "h6",
+            "text_alignment": "center",
+            "icon_spacing": "small"
+          }
+        },
+        "cart-drawer": {
+          "type": "cart-drawer",
+          "settings": {
+            "show_cart_note": true,
+            "show_shipping_text": true,
+            "show_checkout_button": true,
+            "product_card_background": "#f2f2f2"
+          }
+        },
+        "search-drawer": {
+          "type": "search-drawer",
+          "settings": {
+            "full_width": false,
+            "show_article_category": true,
+            "search_products": true,
+            "search_blog_posts": true,
+            "search_pages": false,
+            "search_collections": true,
+            "search_unavailable_products": "last"
+          }
+        }
+      }
+    },
+    "Shape": {
+      "page_width": 1440,
+      "section_vertical_spacing": "small",
+      "section_boxed_horizontal_spacing": "medium",
+      "button_border_radius": 60,
+      "input_border_radius": 8,
+      "block_border_radius": 20,
+      "icon_stroke_width": 1.5,
+      "button_style": "fill",
+      "button_hover_effect": "reverse",
+      "text_color": "#2a555a",
+      "header_background": "#ffffff",
+      "header_text_color": "#2a555a",
+      "footer_background": "#f7f7f7",
+      "footer_text_color": "#2a555a",
+      "primary_button_background": "#2a555a",
+      "primary_button_text_color": "#ffffff",
+      "secondary_button_background": "#d9967e",
+      "product_card_text_color": "#2a555a",
+      "heading_font": "itc_berkeley_old_style_n4",
+      "heading_font_size": "large",
+      "heading_text_transform": "normal",
+      "heading_letter_spacing": -1,
+      "text_font": "muli_n4",
+      "text_font_size_desktop": 15,
+      "product_color_display": "swatch",
+      "product_info_alignment": "center",
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "message": {
+              "type": "message",
+              "settings": {
+                "text": "Announce something here"
+              }
+            }
+          },
+          "block_order": [
+            "message"
+          ],
+          "settings": {
+            "enable_sticky": false,
+            "text_size": "text-xs",
+            "navigation_mode": "scrolling",
+            "scrolling_speed": 12,
+            "background": "#2a555a",
+            "text_color": "#ffffff"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "enable_sticky": true,
+            "hide_on_scroll": false,
+            "logo": "{{shop.brand.logo}}",
+            "logo_max_width": 120,
+            "logo_mobile_max_width": 100,
+            "menu": "main-menu",
+            "menu_open_trigger": "click",
+            "opening_from": "bottom",
+            "layout": "logo_center_navigation_inline",
+            "show_social_media": true,
+            "show_country_flag": true,
+            "show_country_name": false,
+            "transparent_header_text_color": "#ffffff",
+            "reduce_padding": false,
+            "background_opacity": 20,
+            "background_blur_radius": 20
+          }
+        },
+        "cart-drawer": {
+          "type": "cart-drawer",
+          "settings": {
+            "show_cart_note": true,
+            "show_shipping_text": true,
+            "show_checkout_button": true
+          }
+        },
+        "search-drawer": {
+          "type": "search-drawer",
+          "settings": {
+            "full_width": false,
+            "show_article_category": true,
+            "search_products": true,
+            "search_blog_posts": true,
+            "search_pages": true,
+            "search_collections": true,
+            "search_unavailable_products": "last"
+          }
+        },
+        "static-text-with-icons": {
+          "type": "static-text-with-icons",
+          "blocks": {
+            "free-shipping": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-box",
+                "mobile_icon_width": 24,
+                "icon_width": 24,
+                "icon_background_type": "none",
+                "title": "Free shipping",
+                "content": "<p>Tell your customers about your shipping offer.<\/p>"
+              }
+            },
+            "customer-support": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-customer-support",
+                "mobile_icon_width": 24,
+                "icon_width": 24,
+                "icon_background_type": "none",
+                "title": "Customer service",
+                "content": "<p>Tell your customers how they can reach you.<\/p>"
+              }
+            },
+            "discount": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-coupon",
+                "mobile_icon_width": 24,
+                "icon_width": 24,
+                "icon_background_type": "none",
+                "title": "Refer a friend",
+                "content": "<p>Tell your customers about your promotional offers.<\/p>"
+              }
+            },
+            "payment": {
+              "type": "item",
+              "settings": {
+                "icon": "picto-lock",
+                "mobile_icon_width": 24,
+                "icon_width": 24,
+                "icon_background_type": "none",
+                "title": "Secure payment",
+                "content": "<p>Tel your customers about your payment methods.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "free-shipping",
+            "customer-support",
+            "discount",
+            "payment"
+          ],
+          "settings": {
+            "show_section": true,
+            "full_width": true,
+            "heading_tag": "h4",
+            "text_alignment": "center",
+            "icon_spacing": "small"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {
+                "image": "{{shop.brand.logo}}",
+                "image_width": 150,
+                "heading_size": "h3",
+                "title": "Sign up for new stories and personal offers"
+              }
+            },
+            "links": {
+              "type": "links",
+              "settings": {
+                "menu": "footer",
+                "show_menu_title": true
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+                "title": "About",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "newsletter",
+            "links",
+            "text"
+          ],
+          "settings": {
+            "show_social_media": true,
+            "show_payment_icons": true,
+            "show_country_selector": true,
+            "show_country_flag": true,
+            "show_country_name": true,
+            "show_locale_selector": true,
+            "show_privacy_bar": true,
+            "privacy_bar_title": "Cookie policy",
+            "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"
+          }
+        }
+      }
+    }
+  }
+}
