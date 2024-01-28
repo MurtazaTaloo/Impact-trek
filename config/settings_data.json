@@ -47,6 +47,7 @@
         "blocks": {
           "message": {
             "type": "message",
+            "disabled": true,
             "settings": {
               "text": "Heads up! We'll be taking a short break for the Australia Day weekend from Jan 26th to 28th. We'll be back and ready to assist you on Jan 29th",
               "url": "https:\/\/www.trekhardware.com.au\/pages\/christmas-hours"
@@ -57,7 +58,7 @@
           "message"
         ],
         "custom_css": [
-          ".announcement-bar__wrapper{max-width:unset;}"
+          ".announcement-bar__wrapper {max-width: unset;}"
         ],
         "settings": {
           "enable_sticky": false,
