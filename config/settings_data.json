@@ -415,8 +415,8 @@
           "payment"
         ],
         "custom_css": [
-          "{border-top: 1px solid #19171e1c; padding-top: ;}",
-          ".text-with-icons {padding-top: 50px;}"
+          ".text-with-icons {padding-top: ;}",
+          ".section-blends.section-full {padding-block: 70px !important; border-top: 1px solid #19171e1c;}"
         ],
         "settings": {
           "show_section": true,
