@@ -47,9 +47,8 @@
         "blocks": {
           "message": {
             "type": "message",
-            "disabled": true,
             "settings": {
-              "text": "Heads up! We'll be taking a short break for the Australia Day weekend from Jan 26th to 28th. We'll be back and ready to assist you on Jan 29th",
+              "text": "Holiday Notice: Easter closure from March 29th to April 1st. Enjoy the break!",
               "url": "https:\/\/www.trekhardware.com.au\/pages\/christmas-hours"
             }
           }
