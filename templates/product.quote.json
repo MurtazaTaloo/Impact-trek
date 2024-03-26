@@ -132,7 +132,8 @@
         "button_rYGBgt"
       ],
       "custom_css": [
-        "button#openFormButtonnn {width: 100%; text-align: center;}"
+        "button#openFormButtonnn {width: 100%; text-align: center;}",
+        "@media screen and (min-width: 300px) and (max-width: 450px){.modal-content {width: 90% !important;}}"
       ],
       "settings": {
         "full_width": true,
