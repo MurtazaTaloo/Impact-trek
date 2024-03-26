@@ -132,12 +132,7 @@
         "button_rYGBgt"
       ],
       "custom_css": [
-        ".oct-calculator-form-message-general {display: none;}",
-        ".oct-calculator-container {padding: 15px; box-shadow: 0 0 11px 1px #0000001a;}",
-        ".oct-shipping-rate__name,.oct-shipping-rate__price {font-size: 17px !important;}",
-        ".oct-calculator-form-container button {color: #1a1a1a; background: white; border: 1px solid #1a1a1a54; text-transform: uppercase; \/* border-radius: 2px; *\/ width: 100%;}",
-        ".js--address-field {font-size: 15px;}",
-        ".oct-calculator-form-container button:hover {border: 1px solid #1a1a1a; background: #1a1a1a; color: white;}"
+        "button#openFormButtonnn {width: 100%; text-align: center;}"
       ],
       "settings": {
         "full_width": true,
