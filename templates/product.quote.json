@@ -94,6 +94,11 @@
             "text": "<p>Interested in Learning More About This Product? Get a Personalized Quote Today!<\/p><p>Call us at <a href=\"tel:03%208401%203776\" title=\"tel:03%208401%203776\"><strong>(03) 8401 3776<\/strong><\/a> or<br\/>Email us at <a href=\"mailto:sales@trekhardware.com.au\" title=\"mailto:sales@trekhardware.com.au\"><strong>sales@trekhardware.com.au<\/strong><\/a> <\/p>"
           }
         },
+        "rfq_request_quote_hide_price_star_rating_wECWcH": {
+          "type": "shopify:\/\/apps\/rfq-request-quote-hide-price\/blocks\/star_rating\/4742c678-81ea-4005-8778-bb73accb1ff7",
+          "settings": {
+          }
+        },
         "button_rYGBgt": {
           "type": "button",
           "disabled": true,
@@ -105,11 +110,6 @@
             "stretch": true,
             "background": "",
             "text_color": ""
-          }
-        },
-        "rfq_request_quote_hide_price_star_rating_wECWcH": {
-          "type": "shopify:\/\/apps\/rfq-request-quote-hide-price\/blocks\/star_rating\/4742c678-81ea-4005-8778-bb73accb1ff7",
-          "settings": {
           }
         }
       },
@@ -128,8 +128,8 @@
         "buy_buttons",
         "1cc75917-4fac-41e3-b8ce-5b43dfb8e4a6",
         "text_jm8Brh",
-        "button_rYGBgt",
-        "rfq_request_quote_hide_price_star_rating_wECWcH"
+        "rfq_request_quote_hide_price_star_rating_wECWcH",
+        "button_rYGBgt"
       ],
       "custom_css": [
         ".oct-calculator-form-message-general {display: none;}",
