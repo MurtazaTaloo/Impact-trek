@@ -405,5 +405,12 @@
         "other": "It has received {{ count }} reviews."
       }
     }
+  },
+  "shopify": {
+    "checkout": {
+      "delivery_options": {
+        "pick_up_in_five_or_more_days": "We will notify you when your order is ready"
+      }
+    }
   }
 }
