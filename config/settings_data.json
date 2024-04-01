@@ -47,6 +47,7 @@
         "blocks": {
           "message": {
             "type": "message",
+            "disabled": true,
             "settings": {
               "text": "Holiday Notice: Easter closure from March 29th to April 1st. Enjoy the break!",
               "url": "https:\/\/www.trekhardware.com.au\/pages\/christmas-hours"
