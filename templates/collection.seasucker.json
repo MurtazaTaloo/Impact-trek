@@ -21,6 +21,7 @@
         "template--15169534459952__002e5c5f-a407-4e17-84a6-849adc023135-heading-1",
         "6aee28b4-21c8-4e17-809c-a7f93bf68fbb"
       ],
+      "disabled": true,
       "custom_css": [
         "@media only screen and (min-width: 501px) {div {display: none; }}"
       ],
@@ -57,6 +58,7 @@
         "template--15169534459952__ae307e5b-bfe2-4d02-850b-d79e52749feb-heading-1",
         "b4325e91-b053-4eef-bd90-fa7298ce49f0"
       ],
+      "disabled": true,
       "custom_css": [
         "@media only screen and (max-width: 500px) {div {display: none; }}"
       ],
