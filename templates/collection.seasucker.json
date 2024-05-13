@@ -265,7 +265,8 @@
         "collection_mEmQ9G"
       ],
       "custom_css": [
-        ".section-full {padding-bottom: 30px;}"
+        ".section-full {padding-bottom: 30px;}",
+        "@media screen and (min-width: 1150px) {.section-header {grid-template-columns:unset; }}"
       ],
       "settings": {
         "full_width": false,
