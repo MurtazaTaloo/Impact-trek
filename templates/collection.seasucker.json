@@ -99,11 +99,25 @@
         "template--15169534459952__5c31675f-4307-453f-b529-1502b2da10c3-collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "jungle4x4-bullbars",
+            "collection": "seasucker-bike-racks",
             "subheading": "",
-            "title": "Bull Bars",
+            "title": "Bike Racks",
             "url": "",
-            "heading_tag": "h3",
+            "heading_tag": "h5",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_xrCFLN": {
+          "type": "collection",
+          "settings": {
+            "collection": "seasucker-ski-board",
+            "subheading": "",
+            "title": "Ski & Board Racks",
+            "url": "",
+            "heading_tag": "h5",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -113,11 +127,11 @@
         "template--15169534459952__5c31675f-4307-453f-b529-1502b2da10c3-collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "jungle-4x4-side-rails",
+            "collection": "seasucker-crossbars-accessories",
             "subheading": "",
-            "title": "Side Rails",
+            "title": "Crossbar & Accessories",
             "url": "",
-            "heading_tag": "h3",
+            "heading_tag": "h5",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -127,25 +141,53 @@
         "template--15169534459952__5c31675f-4307-453f-b529-1502b2da10c3-collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "jungle-4x4-side-steps",
+            "collection": "seasucker-offroad-4x4",
             "subheading": "",
-            "title": "Side Steps",
+            "title": "Offroad & 4WD",
             "url": "",
-            "heading_tag": "h3",
+            "heading_tag": "h5",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 40
           }
         },
+        "collection_HNCKTc": {
+          "type": "collection",
+          "settings": {
+            "collection": "seasucker-rv-camping",
+            "subheading": "",
+            "title": "RV & Camping",
+            "url": "",
+            "heading_tag": "h5",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_L4FUaF": {
+          "type": "collection",
+          "settings": {
+            "collection": "seasucker-cup-holders",
+            "subheading": "",
+            "title": "Cup Holders",
+            "url": "",
+            "heading_tag": "h5",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "41193684-00e5-4b57-9256-f7d981ca606c": {
           "type": "collection",
           "settings": {
-            "collection": "jungle-4x4-fridge-slides",
+            "collection": "seasucker-electronics",
             "subheading": "",
-            "title": "Fridge Slides",
+            "title": "Electronics",
             "url": "",
-            "heading_tag": "h3",
+            "heading_tag": "h5",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -155,11 +197,53 @@
         "1bbe6d78-91b8-4c63-aba7-6a964c70b753": {
           "type": "collection",
           "settings": {
-            "collection": "jungle-4x4-awnings",
+            "collection": "seasucker-marine",
             "subheading": "",
-            "title": "Awnings",
+            "title": "Marine",
             "url": "",
-            "heading_tag": "h3",
+            "heading_tag": "h5",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_VDAwye": {
+          "type": "collection",
+          "settings": {
+            "collection": "seasucker-rod-holders",
+            "subheading": "",
+            "title": "Rod Holders",
+            "url": "",
+            "heading_tag": "h5",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_TtBpPq": {
+          "type": "collection",
+          "settings": {
+            "collection": "seasucker-utility",
+            "subheading": "",
+            "title": "Utility",
+            "url": "",
+            "heading_tag": "h5",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_mEmQ9G": {
+          "type": "collection",
+          "settings": {
+            "collection": "seasucker-vacuum-mounts",
+            "subheading": "",
+            "title": "Vacuum Mounts",
+            "url": "",
+            "heading_tag": "h5",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -169,10 +253,16 @@
       },
       "block_order": [
         "template--15169534459952__5c31675f-4307-453f-b529-1502b2da10c3-collection-1",
+        "collection_xrCFLN",
         "template--15169534459952__5c31675f-4307-453f-b529-1502b2da10c3-collection-2",
         "template--15169534459952__5c31675f-4307-453f-b529-1502b2da10c3-collection-3",
+        "collection_HNCKTc",
+        "collection_L4FUaF",
         "41193684-00e5-4b57-9256-f7d981ca606c",
-        "1bbe6d78-91b8-4c63-aba7-6a964c70b753"
+        "1bbe6d78-91b8-4c63-aba7-6a964c70b753",
+        "collection_VDAwye",
+        "collection_TtBpPq",
+        "collection_mEmQ9G"
       ],
       "custom_css": [
         ".section-full {padding-bottom: 30px;}"
