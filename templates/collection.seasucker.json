@@ -77,7 +77,7 @@
     "banner": {
       "type": "collection-banner",
       "custom_css": [
-        ".collection-header{margin-block:20px;}"
+        ".collection-header {margin-block: 30px;}"
       ],
       "settings": {
         "full_width": true,
