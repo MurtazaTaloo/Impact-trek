@@ -76,6 +76,9 @@
     },
     "banner": {
       "type": "collection-banner",
+      "custom_css": [
+        ".collection-header{margin-block:20px;}"
+      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -266,7 +269,7 @@
       ],
       "custom_css": [
         ".section-full {padding-bottom: 30px;}",
-        "@media screen and (min-width: 1150px) {.section-header {grid-template-columns:unset; }}"
+        "@media screen and (min-width: 1150px) {.section-header {grid-template-columns: unset; }}"
       ],
       "settings": {
         "full_width": false,
