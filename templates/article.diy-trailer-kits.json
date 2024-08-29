@@ -9,6 +9,38 @@
 */
 {
   "sections": {
+    "featured_collection_jE4k8k": {
+      "type": "featured-collection",
+      "custom_css": [
+        "@media only screen and (max-width: 767px) {product-list.product-list {--product-list-carousel-item-width: 40vw; }}",
+        ".scrollable-with-controls {gap: unset;}",
+        ".section-full {padding-block-start: 0 !important; padding-block-end: 20px !important;}"
+      ],
+      "settings": {
+        "collection": "diy-trailer-kits",
+        "products": [
+
+        ],
+        "full_width": false,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 50,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "main": {
       "type": "main-article",
       "blocks": {
@@ -20,6 +52,9 @@
       },
       "block_order": [
         "navigation"
+      ],
+      "custom_css": [
+        "h1.h0 {font-size: xx-large;}"
       ],
       "settings": {
         "allow_transparent_header": false,
@@ -37,6 +72,7 @@
     }
   },
   "order": [
+    "featured_collection_jE4k8k",
     "main"
   ]
 }
