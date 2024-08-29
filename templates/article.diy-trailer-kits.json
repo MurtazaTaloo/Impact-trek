@@ -54,7 +54,7 @@
         "navigation"
       ],
       "custom_css": [
-        "h1.h0 {font-size: xx-large;}"
+        "@media only screen and (max-width: 767px){h1.h0 {font-size: xx-large;}}"
       ],
       "settings": {
         "allow_transparent_header": false,
