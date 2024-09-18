@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -71,7 +80,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "atc_button_background": "#16d101",
             "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "#1a1a1a",
@@ -81,7 +90,21 @@
         "1cc75917-4fac-41e3-b8ce-5b43dfb8e4a6": {
           "type": "shopify:\/\/apps\/product-page-shipping\/blocks\/calculator\/7c9e47cf-8b08-44b7-8b23-4584e9b2a043",
           "settings": {
-            "message": "Shipping Estimate"
+            "calculator_background_color": "transparent",
+            "open_link_font_size": 16,
+            "open_link_bold": false,
+            "open_link_italic": false,
+            "open_link_underline": false,
+            "open_link_text_color": "#121212",
+            "open_link_text_color_hover": "#121212",
+            "introduction_text_font_size": 14,
+            "introduction_text_color": "#121212",
+            "buttons_background_color": "#FFFFFF",
+            "buttons_background_color_hover": "#121212",
+            "buttons_font_size": 15,
+            "buttons_text_color": "#121212",
+            "buttons_text_color_hover": "#FFFFFF",
+            "buttons_additional_css_class": ""
           }
         }
       },
