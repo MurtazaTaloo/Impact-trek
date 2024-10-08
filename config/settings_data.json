@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "page_width": 1400,
@@ -34,10 +43,10 @@
     "product_color_display": "swatch",
     "product_image_aspect_ratio": "square",
     "product_info_alignment": "center",
-    "social_facebook": "https:\/\/www.facebook.com\/TrekHardware\/",
-    "social_instagram": "https:\/\/www.instagram.com\/trekhardware\/",
-    "favicon": "shopify:\/\/shop_images\/trekicon.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Trek-Hardware-Logo_a16072e9-6d85-4838-a60f-b14956a9f9e4.png",
+    "social_facebook": "https://www.facebook.com/TrekHardware/",
+    "social_instagram": "https://www.instagram.com/trekhardware/",
+    "favicon": "shopify://shop_images/trekicon.png",
+    "checkout_logo_image": "shopify://shop_images/Trek-Hardware-Logo_a16072e9-6d85-4838-a60f-b14956a9f9e4.png",
     "checkout_logo_size": "large",
     "checkout_accent_color": "#363636",
     "checkout_button_color": "#16d101",
@@ -50,7 +59,7 @@
             "disabled": true,
             "settings": {
               "text": "Holiday Notice: Easter closure from March 29th to April 1st. Enjoy the break!",
-              "url": "https:\/\/www.trekhardware.com.au\/pages\/christmas-hours"
+              "url": "https://www.trekhardware.com.au/pages/christmas-hours"
             }
           }
         },
@@ -125,9 +134,9 @@
               "menu_item": "4x4 & offroad",
               "layout": "drawer",
               "submenu_style": "bold_heading",
-              "image_1": "shopify:\/\/shop_images\/3_f1a77262-9153-4b80-a28f-1cc08ee28ce2.jpg",
+              "image_1": "shopify://shop_images/3_f1a77262-9153-4b80-a28f-1cc08ee28ce2.jpg",
               "image_heading_1": "BULLBARS",
-              "image_link_1": "shopify:\/\/collections\/bull-bars",
+              "image_link_1": "shopify://collections/bull-bars",
               "image_text_color_1": "#ffffff",
               "image_heading_2": "",
               "image_link_2": "",
@@ -300,7 +309,7 @@
         "settings": {
           "enable_sticky": true,
           "hide_on_scroll": false,
-          "logo": "shopify:\/\/shop_images\/Trek-Hardware-Logo_a16072e9-6d85-4838-a60f-b14956a9f9e4.png",
+          "logo": "shopify://shop_images/Trek-Hardware-Logo_a16072e9-6d85-4838-a60f-b14956a9f9e4.png",
           "logo_max_width": 160,
           "logo_mobile_max_width": 150,
           "menu": "new-main-menu",
@@ -355,7 +364,7 @@
             "type": "item",
             "settings": {
               "icon": "picto-coupon",
-              "custom_icon": "shopify:\/\/shop_images\/7_c997662d-e367-4f95-995b-ffbb1f585d6b.png",
+              "custom_icon": "shopify://shop_images/7_c997662d-e367-4f95-995b-ffbb1f585d6b.png",
               "mobile_icon_width": 60,
               "icon_width": 60,
               "icon_background_type": "none",
@@ -369,13 +378,13 @@
             "type": "item",
             "settings": {
               "icon": "picto-customer-support",
-              "custom_icon": "shopify:\/\/shop_images\/4_445f310b-0268-4c88-b110-2af76cc0279b.png",
+              "custom_icon": "shopify://shop_images/4_445f310b-0268-4c88-b110-2af76cc0279b.png",
               "mobile_icon_width": 60,
               "icon_width": 60,
               "icon_background_type": "none",
               "icon_background": "",
               "icon_color": "",
-              "title": "OPERATING SINCE 1991 OUT OF MELBOURNE",
+              "title": "OPERATING SINCE 2013 OUT OF MELBOURNE",
               "content": ""
             }
           },
@@ -383,7 +392,7 @@
             "type": "item",
             "settings": {
               "icon": "picto-box",
-              "custom_icon": "shopify:\/\/shop_images\/1_f63e2706-5eb8-4f8d-bd6e-9b72bef193b4.png",
+              "custom_icon": "shopify://shop_images/1_f63e2706-5eb8-4f8d-bd6e-9b72bef193b4.png",
               "mobile_icon_width": 60,
               "icon_width": 60,
               "icon_background_type": "none",
@@ -404,7 +413,7 @@
               "icon_background": "",
               "icon_color": "",
               "title": "Secure payment",
-              "content": "<p>Tel your customers about your payment methods.<\/p>"
+              "content": "<p>Tel your customers about your payment methods.</p>"
             }
           }
         },
@@ -450,7 +459,7 @@
             "type": "text",
             "settings": {
               "title": "GET IN TOUCH",
-              "content": "<p><strong>Phone:<\/strong> <a href=\"tel:03%208401%203776\">(03) 8401 3776<\/a><\/p><p><strong>Email:<\/strong> <a href=\"mailto:sales@trekhardware.com.au\" title=\"Email us at sales@trekhardware.com.au\">sales@trekhardware.com.au<\/a><\/p><p><strong>Website:<\/strong> <a href=\"\/pages\/contact-us\" title=\"Contact us\">Contact Form<\/a><\/p><p><strong>In Person:<\/strong> <a href=\"\/pages\/storelocations\" title=\"Store Locations\">Locate Store<\/a><\/p>"
+              "content": "<p><strong>Phone:</strong> <a href=\"tel:03%208401%203776\">(03) 8401 3776</a></p><p><strong>Email:</strong> <a href=\"mailto:sales@trekhardware.com.au\" title=\"Email us at sales@trekhardware.com.au\">sales@trekhardware.com.au</a></p><p><strong>Website:</strong> <a href=\"/pages/contact-us\" title=\"Contact us\">Contact Form</a></p><p><strong>In Person:</strong> <a href=\"/pages/storelocations\" title=\"Store Locations\">Locate Store</a></p>"
             }
           },
           "text": {
@@ -458,17 +467,17 @@
             "disabled": true,
             "settings": {
               "title": "About",
-              "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"
+              "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>"
             }
           },
           "newsletter": {
             "type": "newsletter",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Trek-Hardware-Logo_a16072e9-6d85-4838-a60f-b14956a9f9e4.png",
+              "image": "shopify://shop_images/Trek-Hardware-Logo_a16072e9-6d85-4838-a60f-b14956a9f9e4.png",
               "image_width": 170,
               "heading_size": "h3",
               "title": "SUBSCRIBE TODAY!",
-              "content": "<p>Sign up to get the latest on sales, new releases and more …<\/p>"
+              "content": "<p>Sign up to get the latest on sales, new releases and more …</p>"
             }
           }
         },
@@ -493,7 +502,7 @@
           "show_locale_selector": true,
           "show_privacy_bar": true,
           "privacy_bar_title": "Cookie policy",
-          "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"
+          "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.</p>"
         }
       },
       "newsletter-popup": {
@@ -620,7 +629,7 @@
                 "icon_width": 24,
                 "icon_background_type": "none",
                 "title": "Free shipping",
-                "content": "<p>Tell your customers about your shipping offer.<\/p>"
+                "content": "<p>Tell your customers about your shipping offer.</p>"
               }
             },
             "customer-support": {
@@ -631,7 +640,7 @@
                 "icon_width": 24,
                 "icon_background_type": "none",
                 "title": "Customer service",
-                "content": "<p>Tell your customers how they can reach you.<\/p>"
+                "content": "<p>Tell your customers how they can reach you.</p>"
               }
             },
             "discount": {
@@ -642,7 +651,7 @@
                 "icon_width": 24,
                 "icon_background_type": "none",
                 "title": "Refer a friend",
-                "content": "<p>Tell your customers about your promotional offers.<\/p>"
+                "content": "<p>Tell your customers about your promotional offers.</p>"
               }
             },
             "payment": {
@@ -653,7 +662,7 @@
                 "icon_width": 24,
                 "icon_background_type": "none",
                 "title": "Secure payment",
-                "content": "<p>Tel your customers about your payment methods.<\/p>"
+                "content": "<p>Tel your customers about your payment methods.</p>"
               }
             }
           },
@@ -694,7 +703,7 @@
               "type": "text",
               "settings": {
                 "title": "About",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>"
               }
             }
           },
@@ -712,7 +721,7 @@
             "show_locale_selector": true,
             "show_privacy_bar": true,
             "privacy_bar_title": "Cookie policy",
-            "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"
+            "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.</p>"
           }
         }
       }
@@ -818,7 +827,7 @@
               "type": "text",
               "settings": {
                 "title": "About",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>"
               }
             }
           },
@@ -836,7 +845,7 @@
             "show_country_name": true,
             "show_privacy_bar": true,
             "privacy_bar_title": "Cookie policy",
-            "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"
+            "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.</p>"
           }
         },
         "static-text-with-icons": {
@@ -850,7 +859,7 @@
                 "icon_width": 24,
                 "icon_background_type": "none",
                 "title": "Free shipping",
-                "content": "<p>Tell your customers about your shipping offer.<\/p>"
+                "content": "<p>Tell your customers about your shipping offer.</p>"
               }
             },
             "customer-support": {
@@ -861,7 +870,7 @@
                 "icon_width": 24,
                 "icon_background_type": "none",
                 "title": "Customer service",
-                "content": "<p>Tell your customers how they can reach you.<\/p>"
+                "content": "<p>Tell your customers how they can reach you.</p>"
               }
             },
             "discount": {
@@ -872,7 +881,7 @@
                 "icon_width": 24,
                 "icon_background_type": "none",
                 "title": "Refer a friend",
-                "content": "<p>Tell your customers about your promotional offers.<\/p>"
+                "content": "<p>Tell your customers about your promotional offers.</p>"
               }
             },
             "payment": {
@@ -883,7 +892,7 @@
                 "icon_width": 24,
                 "icon_background_type": "none",
                 "title": "Secure payment",
-                "content": "<p>Tel your customers about your payment methods.<\/p>"
+                "content": "<p>Tel your customers about your payment methods.</p>"
               }
             }
           },
@@ -1026,7 +1035,7 @@
                 "icon_width": 24,
                 "icon_background_type": "none",
                 "title": "Free shipping",
-                "content": "<p>Tell your customers about your shipping offer.<\/p>"
+                "content": "<p>Tell your customers about your shipping offer.</p>"
               }
             },
             "customer-support": {
@@ -1037,7 +1046,7 @@
                 "icon_width": 24,
                 "icon_background_type": "none",
                 "title": "Customer service",
-                "content": "<p>Tell your customers how they can reach you.<\/p>"
+                "content": "<p>Tell your customers how they can reach you.</p>"
               }
             },
             "discount": {
@@ -1048,7 +1057,7 @@
                 "icon_width": 24,
                 "icon_background_type": "none",
                 "title": "Refer a friend",
-                "content": "<p>Tell your customers about your promotional offers.<\/p>"
+                "content": "<p>Tell your customers about your promotional offers.</p>"
               }
             },
             "payment": {
@@ -1059,7 +1068,7 @@
                 "icon_width": 24,
                 "icon_background_type": "none",
                 "title": "Secure payment",
-                "content": "<p>Tel your customers about your payment methods.<\/p>"
+                "content": "<p>Tel your customers about your payment methods.</p>"
               }
             }
           },
@@ -1100,7 +1109,7 @@
               "type": "text",
               "settings": {
                 "title": "About",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>"
               }
             }
           },
@@ -1118,7 +1127,7 @@
             "show_locale_selector": true,
             "show_privacy_bar": true,
             "privacy_bar_title": "Cookie policy",
-            "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.<\/p>"
+            "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.</p>"
           }
         }
       }
